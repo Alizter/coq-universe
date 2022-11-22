@@ -1,79 +1,79 @@
 [submodule "dune-ocaml"]
-	path = dune-ocaml
-	url = https://github.com/Alizter/dune.git
-	branch = coq-compose
+    path = dune-ocaml
+     url = https://github.com/ocaml/dune.git
+  branch = main
 [submodule "math-comp"]
-	path = math-comp
-	url = https://github.com/ejgallego/math-comp.git
-	branch = dune
+    path = math-comp
+     url = https://github.com/ejgallego/math-comp.git
+  branch = dune
 [submodule "coq-master"]
-	path = coq-master
-	url = https://github.com/coq/coq.git
-	branch = master
+    path = coq-master
+     url = https://github.com/Alizter/coq.git
+  branch = remove-coqide
 [submodule "odd-order"]
-	path = odd-order
-	url = https://github.com/ejgallego/odd-order.git
-	branch = dune
+    path = odd-order
+     url = https://github.com/ejgallego/odd-order.git
+  branch = dune
 [submodule "fourcolor"]
-	path = fourcolor
-	url = https://github.com/ejgallego/fourcolor.git
-	branch = dune
+    path = fourcolor
+     url = https://github.com/ejgallego/fourcolor.git
+  branch = dune
 [submodule "flocq"]
-	path = flocq
-	url = https://github.com/alizter/flocq-fork.git
-	branch = dune
+    path = flocq
+     url = https://github.com/alizter/flocq-fork.git
+  branch = dune
 [submodule "CompCert"]
-	path = CompCert
-	url = https://github.com/alizter/CompCert.git
-	branch = dune
-[submodule "HoTT"]
-	path = HoTT
+    path = CompCert
+     url = https://github.com/alizter/CompCert.git
+  branch = dune
+[submodule "Coq-HoTT"]
+	path = Coq-HoTT
 	url = https://github.com/Alizter/HoTT.git
-  branch = use-dune
+  branch = dune
 [submodule "Coq-Equations"]
-	path = Coq-Equations
-	url = https://github.com/alizter/Coq-Equations.git
+    path = Coq-Equations
+     url = https://github.com/alizter/Coq-Equations.git
   branch = dune
 [submodule "hydra-battles"]
-	path = hydra-battles
-	url = https://github.com/Alizter/hydra-battles.git
+    path = hydra-battles
+     url = https://github.com/Alizter/hydra-battles.git
   branch = dune
 [submodule "mczify"]
-	path = mczify
-	url = https://github.com/math-comp/mczify.git
+    path = mczify
+     url = https://github.com/math-comp/mczify.git
   branch = dune
 [submodule "paramcoq"]
-	path = paramcoq
-	url = https://github.com/Alizter/paramcoq.git
+    path = paramcoq
+     url = https://github.com/Alizter/paramcoq.git
 [submodule "gaia"]
-	path = gaia
-	url = https://github.com/Alizter/gaia.git
+    path = gaia
+     url = https://github.com/Alizter/gaia.git
   branch = dune
 [submodule "LibHyps"]
-	path = LibHyps
-	url = https://github.com/Alizter/LibHyps.git
+    path = LibHyps
+     url = https://github.com/Alizter/LibHyps.git
   branch = dune
 [submodule "Abel"]
-	path = Abel
-	url = https://github.com/Alizter/Abel.git
+    path = Abel
+     url = https://github.com/Alizter/Abel.git
   branch = dune
 [submodule "real-closed"]
-	path = real-closed
-	url = https://github.com/math-comp/real-closed.git
+    path = real-closed
+     url = https://github.com/math-comp/real-closed.git
   branch = dune
 [submodule "bigenough"]
-	path = bigenough
-	url = https://github.com/Alizter/bigenough.git
+    path = bigenough
+     url = https://github.com/Alizter/bigenough.git
   branch = dune
 [submodule "multinomials"]
-	path = multinomials
-	url = https://github.com/Alizter/multinomials.git
+    path = multinomials
+     url = https://github.com/Alizter/multinomials.git
   branch = dune
 [submodule "finmap"]
-	path = finmap
-	url = https://github.com/Alizter/finmap.git
+    path = finmap
+     url = https://github.com/Alizter/finmap.git
   branch = dune
 [submodule "tarjan"]
-	path = tarjan
-	url = https://github.com/Alizter/tarjan.git
+    path = tarjan
+     url = https://github.com/Alizter/tarjan.git
   branch = dune
